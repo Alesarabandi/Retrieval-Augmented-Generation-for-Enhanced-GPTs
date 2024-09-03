@@ -9,7 +9,7 @@ The proposed framework follows the RAG methodology, comprising three key stages:
 One of the distinctive features of this project, setting it apart from a basic chatbot, is its ability to show the retrieved documents after each Q&A session. This transparency allows users to see the exact sources from which the chatbot has derived its answers. The responses provided by the chatbot are directly retrieved from these documents, ensuring that the information is accurate and traceable.
 
 # Accuracy and Relevance of Responses: 
-The chatbot consistently provides accurate and relevant responses by drawing directly from the pre-loaded documents (Fig- ure 5.1). By embedding the user query and searching the vector database for the most pertinent chunks, the system ensures that the answers are well-founded. This approach minimizes the risk of generating speculative or incorrect information, which is a common issue with general-purpose generative AI models.
+The chatbot consistently provides accurate and relevant responses by drawing directly from the pre-loaded documents. By embedding the user query and searching the vector database for the most pertinent chunks, the system ensures that the answers are wellfounded. This approach minimizes the risk of generating speculative or incorrect information, which is a common issue with general-purpose generative AI models.
 
 <img width="736" alt="image" src="https://github.com/user-attachments/assets/2573a1c6-841c-4a4a-ad5d-9e022d4ed550">
 
