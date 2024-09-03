@@ -14,12 +14,12 @@ The chatbot consistently provides accurate and relevant responses by drawing dir
 <img width="736" alt="image" src="https://github.com/user-attachments/assets/2573a1c6-841c-4a4a-ad5d-9e022d4ed550">
 
 # Transparency and Traceability:
-One of the key benefits of this chatbot is the transparency it offers. After each QA session, users can review the specific documents and sections from which the answers were derived. This feature builds trust, as users can verify the authenticity of the information provided. It also allows users to delve deeper into the source material if needed, promoting a more informed and thorough understand- ing of the topics discussed.
+One of the key benefits of this chatbot is the transparency it offers. After each QA session, users can review the specific documents and sections from which the answers were derived. This feature builds trust, as users can verify the authenticity of the information provided. It also allows users to delve deeper into the source material if needed, promoting a more informed and thorough understanding of the topics discussed.
 
 <img width="729" alt="image" src="https://github.com/user-attachments/assets/2240c8f4-0e6f-4494-939e-fbf891af8e5e">
 
 # Mitigation of AI Hallucination:
-By strictly confining the chatbot’s responses to the content available in the training documents, we effectively mitigate the hallucina- tion problem. This constraint is crucial in fields like cybersecurity, where accurate and reliable information is paramount. The chatbot’s design ensures that it does not generate fabricated answers, thereby maintaining a high standard of reliability.
+By strictly confining the chatbot’s responses to the content available in the training documents, we effectively mitigate the hallucination problem. This constraint is crucial in fields like cybersecurity, where accurate and reliable information is paramount. The chatbot’s design ensures that it does not generate fabricated answers, thereby maintaining a high standard of reliability.
 
 <img width="737" alt="image" src="https://github.com/user-attachments/assets/adefada4-421f-452c-9bf2-a3c4e30b2647">
 
