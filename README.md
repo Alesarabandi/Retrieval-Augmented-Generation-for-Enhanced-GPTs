@@ -1,5 +1,5 @@
 # Retrieval-Augmented-Generation-for-Enhanced-GPTs
-This project focuses on enhancing GPT models through Retrieval Augmented Generation (RAG). By integrating domain-specific retrieval mechanisms, we aim to customize large language models for targeted applications, improving accuracy, relevance, and contextual understanding.
+This project focuses on enhancing GPT models through Retrieval-Augmented-Generation (RAG). By integrating domain-specific retrieval mechanisms, we aim to customize large language models for targeted applications, improving accuracy, relevance, and contextual understanding.
 
 The proposed framework follows the RAG methodology, comprising three key stages: retrieval of relevant information, analysis of user queries, and generation of appropriate responses. The following figure illustrates the complete framework, highlighting the interactions between the chatbot and its users, as well as the underlying processes involved in information retrieval, analysis, and response generation.
 
